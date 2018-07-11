@@ -1,3 +1,3 @@
 # PHP_Google_Login
 
-Before start unpuck GoogleAPI.rar file
+Before start extract GoogleAPI.rar file
